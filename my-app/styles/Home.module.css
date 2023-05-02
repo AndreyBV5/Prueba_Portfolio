@@ -284,6 +284,26 @@ background-color: #dd8c81;
   .work div:nth-of-type(1) {
     left: -66.6rem;
   }
+
+nav ul,
+nav li,
+nav li a {
+
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  float: left;
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 10px 50px;
+  text-decoration: none;
+  background-color: transparent;
+  border-radius: 20px;
+  justify-content: space-evenly;
+  font-weight: bold;
+}
   .footer div {
     display: block;
     min-width: 693px;
